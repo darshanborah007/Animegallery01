@@ -1,0 +1,152 @@
+/* hola 1 first div
+
+hola 2 first div and nav class
+
+hola 3 header h1 id
+
+hola 4 h2 
+
+hola 6 paragraph id
+
+hola 5 div last list class
+
+hola 10 last U list id
+
+hola 9 last list id */
+
+
+
+
+
+body {
+    font-family: 'PT sans', sans-serif;
+    background-color: #1d9ba6;
+    margin: 0%;
+    color: #ffffff;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+
+}
+
+#hola1 {
+    margin-top: 22vh;
+    margin: 0;
+    padding: 0;
+    background-image: url(anime2.jfif.jpg);
+    background-position: relative;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: hidden;
+}
+
+.container {
+    margin-top: 22vh;
+}
+
+#hola3 {
+    font-size: 65px;
+    margin-bottom: 0%;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+#hola4 {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+
+/* navbaar */
+.hola2 {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(12, 143, 135);
+    position: fixed;
+
+
+
+}
+
+.hola2 {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.hola2 li {
+    display: inline;
+
+}
+
+.hola2 a {
+    display: inline-block;
+    width: 130px;
+    text-align: center;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 10px;
+
+
+
+}
+
+.hola2 li:hover {
+    background-color: rgb(5, 45, 58);
+    background-size: 100px;
+}
+
+.hola5 {
+    width: 900px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 10px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: left;
+    font-size: 15px;
+    padding: 10px;
+
+}
+
+
+#hola6 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#hola9 {
+    list-style-type: none;
+
+}
+
+#hola10 {
+    font-size: 18px;
+
+
+}
+
+pre {
+    font-size: 15px;
+    font-family: sans-serif;
+    height: 10px;
+    width: 100%;
+    color: #ffffff;
+    background-color: rgb(5, 72, 79);
+    text-align: center;
+    padding-bottom:20px;
+    padding-top: 10px;
+    text-decoration: none;
+}
