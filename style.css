@@ -111,11 +111,11 @@ a {
     margin: 0 auto;
     padding: 0 10px;
     display: grid;
-    grid-gap: 10px;
+    grid-gap: 12px;
     grid-template-columns: repeat(4, 1fr);
     text-align: left;
     font-size: 15px;
-    padding: 10px;
+    padding: 15px;
 
 }
 
@@ -146,7 +146,60 @@ pre {
     color: #ffffff;
     background-color: rgb(5, 72, 79);
     text-align: center;
-    padding-bottom:20px;
+    padding-bottom: 20px;
     padding-top: 10px;
     text-decoration: none;
+}
+
+/* hola11 and hola 12 used for creating about us section  */
+
+.hola11 h2 {
+    color: black;
+    font-size: 35px;
+    margin-bottom: 2%;
+    margin-top: 0%;
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset: 8px;
+
+    /* h2 done */
+
+
+}
+
+.hola11 p {
+    text-align: center;
+    font-size: 22px;
+    font-family: sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+#hola12 {
+    color: rgb(65, 60, 60);
+    margin-top: 25px;
+}
+
+.hola11 {
+    color: black;
+}
+
+
+/* hola13 certifications */
+
+.hola13 h3 {
+    font-style: italic;
+    padding-left: 13px;
+    margin-top: 25px;
+    margin-bottom: 0%;
+    color: black;
+
+
+}
+
+#hola133 {
+    padding-left: 13px;
+    margin-top: 0%;
+
 }
