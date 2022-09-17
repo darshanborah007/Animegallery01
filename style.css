@@ -198,7 +198,7 @@ pre {
     color: rgb(51, 200, 183);
     font-weight: lighter;
     text-align: justify;
-    
+
 
 
 }
@@ -208,14 +208,48 @@ pre {
     margin-top: 0%;
 
 }
-.hola13{
+
+.hola13 {
 
     background-image: url(anime4.jfif.png);
     background-size: 1800px;
-   background-position:top;
-   background-repeat: no-repeat;
-    height: 90px;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 110px;
     width: 100%;
 }
 
-    
+/* new codes */
+
+.text {
+    font-size: 28px;
+    text-align: center;
+    margin-top: 15px;
+    border: black;
+    border-style: outset;
+    border-width: 3px;
+    margin-left: 650px;
+    margin-right: 650px;
+    padding: 2px;
+    border-inline-color: black;
+    color: black;
+    font-family: sans-serif;
+}
+
+
+.form-row {
+
+    width: 400px;
+    margin: 0 auto;
+
+}
+
+.input-data {
+
+    margin-top: 8px;
+    margin-left: 115px;
+}
+
+.form-rowsubmit-btn {
+    margin-left: -55px;
+}
