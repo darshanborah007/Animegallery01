@@ -221,35 +221,3 @@ pre {
 
 /* new codes */
 
-.text {
-    font-size: 28px;
-    text-align: center;
-    margin-top: 15px;
-    border: black;
-    border-style: outset;
-    border-width: 3px;
-    margin-left: 650px;
-    margin-right: 650px;
-    padding: 2px;
-    border-inline-color: black;
-    color: black;
-    font-family: sans-serif;
-}
-
-
-.form-row {
-
-    width: 400px;
-    margin: 0 auto;
-
-}
-
-.input-data {
-
-    margin-top: 8px;
-    margin-left: 115px;
-}
-
-.form-rowsubmit-btn {
-    margin-left: -55px;
-}
