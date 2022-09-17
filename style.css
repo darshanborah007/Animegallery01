@@ -211,12 +211,12 @@ pre {
 
 .hola13 {
 
-    background-image: url(anime4.jfif.png);
+    /* background-image: url(anime4.jfif.png);
     background-size: 1800px;
     background-position: top;
     background-repeat: no-repeat;
     height: 110px;
-    width: 100%;
+    width: 100%; */
 }
 
 /* new codes */
@@ -229,11 +229,16 @@ pre {
 
 .formhtml {
 
-    color: rgb(0, 0, 0);
-    background-color: rgb(51, 200, 183);
+    color: rgb(7, 229, 245);
+    background-image: url(background.jfif.jpg);
+    background-repeat: no-repeat;
+    background-position: lefts;
+    background-size: cover;
     width: 500px;
+
+
     border: 4px 0px 4px 0px;
-    border-color: black;
+    border-color: rgb(0, 0, 0);
     border-style: inset;
     padding: 0%;
     margin: 0%;
@@ -264,4 +269,10 @@ pre {
     font-size: 20px;
     font-family: sans-serif;
 
+}
+.bg1{
+    background-image: url(anime4.jfif.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
