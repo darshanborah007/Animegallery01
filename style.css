@@ -15,7 +15,7 @@ hola 10 last U list id
 hola 9 last list id */
 
 
-
+/* --------------------------------------------------------------------------------- */
 
 
 body {
@@ -65,15 +65,12 @@ a {
 }
 
 
-
 /* navbaar */
 .hola2 {
     height: 50px;
     width: 100%;
     background-color: rgb(12, 143, 135);
     position: fixed;
-
-
 
 }
 
@@ -229,15 +226,18 @@ pre {
 
 .formhtml {
 
-    color: rgb(7, 229, 245);
-    background-image: url(background.jfif.jpg);
+    color: rgb(255, 255, 255);
+    background-image: url(anime4.jfif.png);
     background-repeat: no-repeat;
     background-position: lefts;
-    background-size: cover;
+    background-size: 10px;
     width: 500px;
 
 
-    border: 4px 0px 4px 0px;
+    border-left: 2px;
+    border-right: 2px;
+    border-bottom: 0;
+    border-top: 0;
     border-color: rgb(0, 0, 0);
     border-style: inset;
     padding: 0%;
@@ -270,7 +270,8 @@ pre {
     font-family: sans-serif;
 
 }
-.bg1{
+
+.bg1 {
     background-image: url(anime4.jfif.png);
     background-repeat: no-repeat;
     background-position: center;
